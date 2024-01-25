@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display:flex ;
+    justify-content: center;
+    align-content: center;
+}
+.container{
+    height: 95vmin;
+    width: 75vmin;
+    margin: 50px;
+    border: 1px solid black;
+    
+}
+img{
+    height: 20px;
+}
+.logo{
+    height: 120px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.temperature{
+    font-size: 45px;
+    padding-left: 140px;
+    padding-top: 20px;
+}

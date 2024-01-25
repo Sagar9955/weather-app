@@ -1,0 +1,1 @@
+let url=`https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={9e13152ce48ba958cb6a554fc1bf8ae9}`;
